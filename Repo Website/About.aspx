@@ -5,4 +5,5 @@
     <h3>Your application description page.</h3>
     <p>Use this area to provide additional information.</p>\
     <h1>Joseph Kennedy</h1>
+    <h3>jkennedy27@studentmail.nait.ca</h3>
 </asp:Content>
