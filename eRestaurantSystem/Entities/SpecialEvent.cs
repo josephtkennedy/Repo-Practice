@@ -14,7 +14,6 @@ namespace eRestaurantSystem.Entities
     {
         [Key]
         public char EventCode { get; set; }
-        [StringLength]
         public string Description { get; set; }
         public bool Active { get; set; }
     }
